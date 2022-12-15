@@ -1,12 +1,21 @@
-2022/12/14-12:47:59.630 7d3b Reusing MANIFEST /home/sb/.config/notion-app/Partitions/notion/IndexedDB/notion_www.notion.so_0.indexeddb.leveldb/MANIFEST-000001
-2022/12/14-12:47:59.630 7d3b Recovering log #72
-2022/12/14-12:47:59.644 7d3b Reusing old log /home/sb/.config/notion-app/Partitions/notion/IndexedDB/notion_www.notion.so_0.indexeddb.leveldb/000072.log 
-2022/12/14-12:48:01.555 7d3a Level-0 table #77: started
-2022/12/14-12:48:01.567 7d3a Level-0 table #77: 1390120 bytes OK
-2022/12/14-12:48:01.570 7d3a Delete type=0 #72
-2022/12/14-12:48:01.960 7d3b Compacting 1@1 + 1@2 files
-2022/12/14-12:48:01.991 7d3b Generated table #78@1: 37209 keys, 2014205 bytes
-2022/12/14-12:48:01.991 7d3b Compacted 1@1 + 1@2 files => 2014205 bytes
-2022/12/14-12:48:01.994 7d3b compacted to: files[ 0 0 1 0 0 0 0 ]
-2022/12/14-12:48:01.994 7d3b Delete type=2 #74
-2022/12/14-12:48:01.994 7d3b Delete type=2 #77
+2022/12/15-11:10:04.033 941 Reusing MANIFEST /home/sb/.config/notion-app/Partitions/notion/IndexedDB/notion_www.notion.so_0.indexeddb.leveldb/MANIFEST-000001
+2022/12/15-11:10:04.033 941 Recovering log #76
+2022/12/15-11:10:04.054 941 Reusing old log /home/sb/.config/notion-app/Partitions/notion/IndexedDB/notion_www.notion.so_0.indexeddb.leveldb/000076.log 
+2022/12/15-11:10:04.799 942 Level-0 table #81: started
+2022/12/15-11:10:04.812 942 Level-0 table #81: 1243570 bytes OK
+2022/12/15-11:10:04.814 942 Delete type=0 #76
+2022/12/15-11:10:05.425 941 Compacting 1@1 + 1@2 files
+2022/12/15-11:10:05.457 941 Generated table #82@1: 38718 keys, 2093272 bytes
+2022/12/15-11:10:05.457 941 Compacted 1@1 + 1@2 files => 2093272 bytes
+2022/12/15-11:10:05.460 941 compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/12/15-11:10:05.460 941 Delete type=2 #78
+2022/12/15-11:10:05.460 941 Delete type=2 #81
+2022/12/15-11:20:51.908 b1d Level-0 table #84: started
+2022/12/15-11:20:51.926 b1d Level-0 table #84: 1418693 bytes OK
+2022/12/15-11:20:51.929 b1d Delete type=0 #80
+2022/12/15-11:20:53.743 941 Compacting 1@1 + 1@2 files
+2022/12/15-11:20:53.787 941 Generated table #85@1: 39732 keys, 2132169 bytes
+2022/12/15-11:20:53.787 941 Compacted 1@1 + 1@2 files => 2132169 bytes
+2022/12/15-11:20:53.790 941 compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/12/15-11:20:53.790 941 Delete type=2 #82
+2022/12/15-11:20:53.790 941 Delete type=2 #84

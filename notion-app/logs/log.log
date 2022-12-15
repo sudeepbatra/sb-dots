@@ -3245,3 +3245,187 @@
 [2022-12-15 11:40:07.639] [info] { level: 'info', from: 'AssetCache', type: 'noAppUpdateAvailable2' }
 [2022-12-15 11:44:01.242] [info] Quitting...
 [2022-12-15 11:44:01.267] [info] Killing child process
+[2022-12-15 19:03:46.578] [info] Checking for update
+[2022-12-15 19:03:46.876] [info] {
+  level: 'info',
+  from: 'AssetCache',
+  type: 'latestVersionPath',
+  data: {
+    message: 'latestVersion.json path /home/sb/.config/notion-app/notionAssetCache-v2/latestVersion.json'
+  }
+}
+[2022-12-15 19:03:46.884] [error] Error: Error: ENOENT: no such file or directory, open '/opt/Notion/resources/app-update.yml'
+[2022-12-15 19:03:46.884] [info] {
+  level: 'info',
+  from: 'autoUpdater',
+  type: 'unsupportedLinuxApp',
+  error: {
+    name: 'Error',
+    message: "ENOENT: no such file or directory, open '/opt/Notion/resources/app-update.yml'",
+    stack: "Error: ENOENT: no such file or directory, open '/opt/Notion/resources/app-update.yml'"
+  }
+}
+[2022-12-15 19:03:46.889] [info] {
+  level: 'info',
+  from: 'AssetCache',
+  type: 'currentVersionLoaded',
+  data: { version: '23.10.26.104', hash: 'c642c9dd5722af73b070bd6297fbae61' }
+}
+[2022-12-15 19:03:46.889] [info] {
+  level: 'info',
+  from: 'AssetCache',
+  type: 'syncVersions',
+  data: {
+    message: 'Sync versions: assets.json path /home/sb/.config/notion-app/notionAssetCache-v2/23.10.26.104/assets.json headers.json path /home/sb/.config/notion-app/notionAssetCache-v2/23.10.26.104/headers.json'
+  }
+}
+[2022-12-15 19:03:46.893] [info] {
+  level: 'info',
+  from: 'AssetCache',
+  type: 'currentSyncedAssetsJson',
+  data: { version: '23.10.26.104' }
+}
+[2022-12-15 19:03:47.241] [info] {
+  level: 'info',
+  from: 'AssetCache',
+  type: 'syncVersionSameSkippingSync'
+}
+[2022-12-15 19:03:47.242] [info] {
+  level: 'info',
+  from: 'AssetCache',
+  type: 'performingFileRequest2',
+  data: {
+    message: 'Performing file request: /, abs path /home/sb/.config/notion-app/notionAssetCache-v2/23.10.26.104/assets/index-en-US-bfd0b3785f49a6cac1a3.html'
+  }
+}
+[2022-12-15 19:03:47.246] [info] { level: 'info', from: 'AssetCache', type: 'noAppUpdateAvailable2' }
+[2022-12-15 19:03:47.320] [info] {
+  level: 'info',
+  from: 'AssetCache',
+  type: 'performingFileRequest',
+  data: {
+    absolutePath: '/home/sb/.config/notion-app/notionAssetCache-v2/23.10.26.104/assets/9976-b7b4e5eb2f23fab5c0a8.js',
+    url: '/9976-b7b4e5eb2f23fab5c0a8.js'
+  }
+}
+[2022-12-15 19:03:47.321] [info] {
+  level: 'info',
+  from: 'AssetCache',
+  type: 'performingFileRequest',
+  data: {
+    absolutePath: '/home/sb/.config/notion-app/notionAssetCache-v2/23.10.26.104/assets/app-0f990ce9e97571b091b9.js',
+    url: '/app-0f990ce9e97571b091b9.js'
+  }
+}
+[2022-12-15 19:03:47.322] [info] {
+  level: 'info',
+  from: 'AssetCache',
+  type: 'performingFileRequest',
+  data: {
+    absolutePath: '/home/sb/.config/notion-app/notionAssetCache-v2/23.10.26.104/assets/app-458b27cf2746fa5c5a6a.css',
+    url: '/app-458b27cf2746fa5c5a6a.css'
+  }
+}
+[2022-12-15 19:03:47.322] [info] {
+  level: 'info',
+  from: 'AssetCache',
+  type: 'performingFileRequest',
+  data: {
+    absolutePath: '/home/sb/.config/notion-app/notionAssetCache-v2/23.10.26.104/assets/print.b31f28aa.css',
+    url: '/print.b31f28aa.css'
+  }
+}
+[2022-12-15 19:03:48.007] [info] {
+  level: 'info',
+  from: 'AssetCache',
+  type: 'performingFileRequest',
+  data: {
+    absolutePath: '/home/sb/.config/notion-app/notionAssetCache-v2/23.10.26.104/assets/primusV8-33d8a42f79c7667a1ae9.js',
+    url: '/primusV8-33d8a42f79c7667a1ae9.js'
+  }
+}
+[2022-12-15 19:03:48.191] [info] {
+  level: 'info',
+  from: 'AssetCache',
+  type: 'performingFileRequest',
+  data: {
+    absolutePath: '/home/sb/.config/notion-app/notionAssetCache-v2/23.10.26.104/assets/about-developers-modal-66266608be2b62972302.js',
+    url: '/about-developers-modal-66266608be2b62972302.js'
+  }
+}
+[2022-12-15 19:03:49.167] [info] {
+  level: 'info',
+  from: 'AssetCache',
+  type: 'performingFileRequest',
+  data: {
+    absolutePath: '/home/sb/.config/notion-app/notionAssetCache-v2/23.10.26.104/assets/emoji-english-9a98ca2b66b4678c59c1.js',
+    url: '/emoji-english-9a98ca2b66b4678c59c1.js'
+  }
+}
+[2022-12-15 19:03:49.171] [info] {
+  level: 'info',
+  from: 'AssetCache',
+  type: 'performingFileRequest',
+  data: {
+    absolutePath: '/home/sb/.config/notion-app/notionAssetCache-v2/23.10.26.104/assets/7831-c5dab1935f20dfcbd321.js',
+    url: '/7831-c5dab1935f20dfcbd321.js'
+  }
+}
+[2022-12-15 19:03:49.171] [info] {
+  level: 'info',
+  from: 'AssetCache',
+  type: 'performingFileRequest',
+  data: {
+    absolutePath: '/home/sb/.config/notion-app/notionAssetCache-v2/23.10.26.104/assets/4005-7c704b653163c9565282.js',
+    url: '/4005-7c704b653163c9565282.js'
+  }
+}
+[2022-12-15 19:03:49.172] [info] {
+  level: 'info',
+  from: 'AssetCache',
+  type: 'performingFileRequest',
+  data: {
+    absolutePath: '/home/sb/.config/notion-app/notionAssetCache-v2/23.10.26.104/assets/4827-7022891d2e8c4ea14434.js',
+    url: '/4827-7022891d2e8c4ea14434.js'
+  }
+}
+[2022-12-15 19:03:49.172] [info] {
+  level: 'info',
+  from: 'AssetCache',
+  type: 'performingFileRequest',
+  data: {
+    absolutePath: '/home/sb/.config/notion-app/notionAssetCache-v2/23.10.26.104/assets/postRender-21882c5fc0ac5d0630be.js',
+    url: '/postRender-21882c5fc0ac5d0630be.js'
+  }
+}
+[2022-12-15 19:03:49.348] [info] {
+  level: 'info',
+  from: 'AssetCache',
+  type: 'performingFileRequest',
+  data: {
+    absolutePath: '/home/sb/.config/notion-app/notionAssetCache-v2/23.10.26.104/assets/markdown-linkify-it-40f534699cf5659b91ed.js',
+    url: '/markdown-linkify-it-40f534699cf5659b91ed.js'
+  }
+}
+[2022-12-15 19:03:49.349] [info] {
+  level: 'info',
+  from: 'AssetCache',
+  type: 'performingFileRequest',
+  data: {
+    absolutePath: '/home/sb/.config/notion-app/notionAssetCache-v2/23.10.26.104/assets/tinymce-word-paste-filter-ff147c0fa9e583346507.js',
+    url: '/tinymce-word-paste-filter-ff147c0fa9e583346507.js'
+  }
+}
+[2022-12-15 19:03:49.439] [info] {
+  level: 'info',
+  from: 'AssetCache',
+  type: 'performingFileRequest',
+  data: {
+    absolutePath: '/home/sb/.config/notion-app/notionAssetCache-v2/23.10.26.104/assets/analytics-amplitude-b62eee216945a6fd2fa3.js',
+    url: '/analytics-amplitude-b62eee216945a6fd2fa3.js'
+  }
+}
+[2022-12-15 19:13:47.247] [info] { level: 'info', from: 'AssetCache', type: 'checkingForAppUpdate' }
+[2022-12-15 19:13:47.605] [info] { level: 'info', from: 'AssetCache', type: 'noAppUpdateAvailable2' }
+[2022-12-15 19:23:47.606] [info] { level: 'info', from: 'AssetCache', type: 'checkingForAppUpdate' }
+[2022-12-15 19:23:47.972] [info] { level: 'info', from: 'AssetCache', type: 'noAppUpdateAvailable2' }
