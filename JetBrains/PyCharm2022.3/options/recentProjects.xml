@@ -1,0 +1,48 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/StoxAlpha/ExperimentProject">
+          <value>
+            <RecentProjectMetaInfo frameTitle="ExperimentProject" projectWorkspaceId="2HvxictONAH3ZvBxpLgpxjGNHF1">
+              <option name="activationTimestamp" value="1669817430502" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="PY-222.4459.20" />
+              <option name="buildTimestamp" value="1668691601037" />
+              <frame x="0" y="26" width="1920" height="1054" extendedState="7" />
+              <option name="productionCode" value="PY" />
+              <option name="projectOpenTimestamp" value="1669815993446" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/StoxAlpha/algo_trading">
+          <value>
+            <RecentProjectMetaInfo projectWorkspaceId="2IGlqkIP9lKCiDKngB3uEcJc2rF">
+              <option name="activationTimestamp" value="1669820826808" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="PY-222.4459.20" />
+              <option name="buildTimestamp" value="1668691567954" />
+              <option name="productionCode" value="PY" />
+              <option name="projectOpenTimestamp" value="1669815993446" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/StoxAlpha/Experiments">
+          <value>
+            <RecentProjectMetaInfo frameTitle="Experiments – increment_shared_counter_parallel.py" opened="true" projectWorkspaceId="2I7Zo7kBmhbURiS6S4mM16K1Rhh">
+              <option name="activationTimestamp" value="1670563207734" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="PY-223.7571.203" />
+              <option name="buildTimestamp" value="1669817460800" />
+              <frame x="1928" y="28" width="2540" height="1400" extendedState="6" />
+              <option name="productionCode" value="PY" />
+              <option name="projectOpenTimestamp" value="1670562486883" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastOpenedProject" value="$USER_HOME$/StoxAlpha/Experiments" />
+    <option name="lastProjectLocation" value="$USER_HOME$/StoxAlpha" />
+  </component>
+</application>

@@ -1,0 +1,36 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/StoxAlpha/NSEData">
+          <value>
+            <RecentProjectMetaInfo frameTitle="NSEData – NSEDataUtils.java" opened="true" projectWorkspaceId="2HvtXM2ZWt34mVSQQelWTwL7DI5">
+              <option name="activationTimestamp" value="1669284676574" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-222.4345.14" />
+              <option name="buildTimestamp" value="1665569859408" />
+              <frame x="0" y="26" width="1920" height="1054" extendedState="6" />
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1669178464163" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/StoxAlpha/ta4j">
+          <value>
+            <RecentProjectMetaInfo frameTitle="ta4j – AnalysisCriterion.java [ta4j-core]" opened="true" projectWorkspaceId="2Hvve698pM35Y1BxCKMORDSZWi4">
+              <option name="activationTimestamp" value="1669299451015" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-222.4345.14" />
+              <option name="buildTimestamp" value="1665569859408" />
+              <frame x="0" y="26" width="1920" height="1054" extendedState="6" />
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1669178464163" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastOpenedProject" value="$USER_HOME$/StoxAlpha/ta4j" />
+    <option name="lastProjectLocation" value="$USER_HOME$/StoxAlpha" />
+  </component>
+</application>

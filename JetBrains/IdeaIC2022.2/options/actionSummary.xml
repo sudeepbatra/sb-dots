@@ -1,0 +1,67 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="$Undo">
+      <i c="6" l="1669190263295" />
+    </e>
+    <e n="CodeCompletion">
+      <i c="1" l="1669190261707" />
+    </e>
+    <e n="CompileDirty">
+      <i c="2" l="1669217271274" />
+    </e>
+    <e n="EditorBackSpace">
+      <i c="1" l="1669217245459" />
+    </e>
+    <e n="EditorDuplicate">
+      <i c="1" l="1669190260089" />
+    </e>
+    <e n="EditorEscape">
+      <i c="1" l="1669190262619" />
+    </e>
+    <e n="Exit">
+      <i c="1" l="1669190747657" />
+    </e>
+    <e n="HideAllWindows">
+      <i c="1" l="1669190203719" />
+    </e>
+    <e n="OpenFile">
+      <i c="1" l="1669178458044" />
+    </e>
+    <e n="RunClass">
+      <i c="2" l="1669177656169" />
+    </e>
+    <e n="SaveAll">
+      <i c="10" l="1669190799116" />
+    </e>
+    <e n="ShowSettings">
+      <i c="20" l="1669217018184" />
+    </e>
+    <e n="WelcomeScreen.OpenProject">
+      <i c="1" l="1669177311365" />
+    </e>
+    <e n="com.intellij.application.options.schemes.AbstractSchemeActions$ImportAction">
+      <i c="1" l="1669180373332" />
+    </e>
+    <e n="com.intellij.application.options.schemes.AbstractSchemesPanel$ShowSchemesActionsListAction">
+      <i c="1" l="1669180368936" />
+    </e>
+    <e n="com.intellij.ide.plugins.PluginManagerConfigurable$MarketplaceSortByAction">
+      <i c="1" l="1669122496971" />
+    </e>
+    <e n="com.intellij.notification.NotificationAction$Simple">
+      <i c="1" l="1669177491732" />
+    </e>
+    <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
+      <i c="2" l="1669177652959" />
+    </e>
+    <e n="com.intellij.openapi.ui.impl.DialogWrapperPeerImpl$AnCancelAction">
+      <i c="3" l="1669179682360" />
+    </e>
+    <e n="com.intellij.toolWindow.ToolWindowHeader$HideAction">
+      <i c="1" l="1669180448153" />
+    </e>
+    <e n="de.plushnikov.intellij.plugin.activity.LombokBuildManagerListener$1">
+      <i c="1" l="1669177632616" />
+    </e>
+  </component>
+</application>

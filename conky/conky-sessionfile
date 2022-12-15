@@ -1,0 +1,2 @@
+conky -c /home/sb/.config/conky/MOWGLI-Qlocktwo.conkyrc & sleep 1s
+conky -c /home/sb/.config/conky/AUR-Allinone.conkyrc & sleep 1s

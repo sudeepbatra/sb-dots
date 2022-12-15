@@ -1,0 +1,33 @@
+<application>
+  <component name="DimensionService">
+    <size key="GridCell.Tab.0.left.0.0.1920.1080" width="1870" height="308" />
+    <size key="GridCell.Tab.0.center.0.0.1920.1080" width="1870" height="308" />
+    <size key="GridCell.Tab.0.right.0.0.1920.1080" width="1870" height="308" />
+    <size key="GridCell.Tab.0.bottom.0.0.1920.1080" width="1870" height="308" />
+    <size key="GridCell.Tab.0.left.1920.0.2560.1440" width="2510" height="308" />
+    <size key="GridCell.Tab.0.center.1920.0.2560.1440" width="2510" height="308" />
+    <size key="GridCell.Tab.0.right.1920.0.2560.1440" width="2510" height="308" />
+    <size key="GridCell.Tab.0.bottom.1920.0.2560.1440" width="2510" height="308" />
+    <size key="GridCell.Tab.1.left.0.0.1920.1080" width="1870" height="380" />
+    <size key="GridCell.Tab.1.center.0.0.1920.1080" width="1870" height="380" />
+    <size key="GridCell.Tab.1.right.0.0.1920.1080" width="1870" height="380" />
+    <size key="GridCell.Tab.1.bottom.0.0.1920.1080" width="1870" height="380" />
+  </component>
+  <component name="WindowManager">
+    <frame x="0" y="26" width="1920" height="1056" extendedState="6" />
+  </component>
+  <component name="WindowStateApplicationService">
+    <state x="748" y="240" key="FileChooserDialogImpl" timestamp="1669179484447">
+      <screen x="0" y="26" width="1920" height="1054" />
+    </state>
+    <state x="748" y="240" key="FileChooserDialogImpl/1920.0.2560.1440/0.26.1920.1054" timestamp="1669179484447" />
+    <state x="1419" y="814" width="300" height="235" key="ProcessPopupWindow" timestamp="1669216983894">
+      <screen x="0" y="26" width="1920" height="1054" />
+    </state>
+    <state x="1419" y="814" width="300" height="235" key="ProcessPopupWindow/1920.0.2560.1440/0.26.1920.1054" timestamp="1669216983894" />
+    <state x="960" y="485" width="800" height="650" key="WELCOME_SCREEN" timestamp="1670128717572">
+      <screen x="0" y="26" width="1920" height="1054" />
+    </state>
+    <state x="960" y="485" width="800" height="650" key="WELCOME_SCREEN/1920.0.2560.1440/0.26.1920.1054" timestamp="1670128717572" />
+  </component>
+</application>

@@ -1,0 +1,75 @@
+<application>
+  <component name="DynamicPluginEnabler">
+    <trackers>
+      <map>
+        <entry key="2Hu5q7hPShjpvfiI89yvnSao6GY">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2HvtXM2ZWt34mVSQQelWTwL7DI5">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2Hvve698pM35Y1BxCKMORDSZWi4">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+      </map>
+    </trackers>
+  </component>
+  <component name="LangManager">
+    <option name="languageName" value="JAVA" />
+    <languageToProjectMap>
+      <entry key="JAVA" value="$USER_HOME$/.cache/JetBrains/IdeaIC2022.2/demo/IdeaLearningProject" />
+    </languageToProjectMap>
+  </component>
+  <component name="NotRoamableUiSettings">
+    <option name="fontScale" value="1.0" />
+    <option name="fontSize" value="14.0" />
+  </component>
+  <component name="PropertyService"><![CDATA[{
+  "keyToString": {
+    "MarketplacePluginsSearchHistory": "/tag:Keymap\n/tag:theme\n/sortBy:featured /sortBy:rating\n/sortBy:featured",
+    "NonModalCommitCustomization.IsApplied": "true",
+    "RunOnceActivity.se.text.search": "true",
+    "appcds.runOnSecondStart": "IC-222.4345.14-1a36f348c591ec15e9411b71f725b5ec95b9e80ecd6bcfe178d62fb5af2f1e8a",
+    "ask.about.ctrl.y.shortcut.v2": "true",
+    "build.toolwindow.Build Output.selection.state": "com.intellij.build.BuildTreeConsoleView",
+    "build.toolwindow.Sync.selection.state": "com.intellij.build.BuildTreeConsoleView",
+    "bundled.plugins.list.saved.version": "IC-222.4345.14",
+    "defaultJdkConfigured": "true",
+    "defaultpackageserviceconfig.fulltext": "https://package-search.services.jetbrains.com/api/search/idea/fulltext",
+    "defaultpackageserviceconfig.suggest": "https://package-search.services.jetbrains.com/api/search/idea/suggest",
+    "defaultpackageserviceconfig.updated.ts": "1669177427957",
+    "eclipse.projects.detected": "",
+    "file.gist.reindex.count": "12",
+    "fileTypeChangedCounter": "3",
+    "fontSizeToResetConsole": "18.0",
+    "fontSizeToResetEditor": "18.0",
+    "gotit.previous.run": "IC-222.4345.14",
+    "ide.memory.adjusted": "true",
+    "ift.learning.panel.opened.in": "222.4345.14",
+    "installed.kotlin.plugin.version": "222-1.7.10-release-334-IJ4345.14",
+    "last_opened_file_path": "/home/sb/Downloads/Colorful___By_Hulk_Python.icls",
+    "previousColorScheme": "Colorful - By Hulk Python",
+    "registry.to.advanced.settings.migration.build": "IC-222.4345.14",
+    "tasks.pass.word.conversion.enforced": "true"
+  },
+  "keyToStringList": {
+    "file.chooser.recent.files": [
+      "/home/sb/Downloads/Colorful___By_Hulk_Python.icls",
+      "/home/sb/StoxAlpha/ta4j",
+      "/home/sb/StoxAlpha/NSEData"
+    ],
+    "fileTypeDetectors": [
+      "com.intellij.ide.scratch.ScratchFileServiceImpl$Detector",
+      "com.android.tools.idea.sqlite.fileType.SqliteFileTypeDetector",
+      "com.android.tools.idea.profilers.capture.MemoryCaptureFileType$Detector",
+      "org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector"
+    ]
+  }
+}]]></component>
+</application>

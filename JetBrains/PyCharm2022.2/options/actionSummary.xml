@@ -1,0 +1,304 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="$Copy">
+      <i c="1" l="1669820070057" />
+    </e>
+    <e n="$Delete">
+      <i c="5" l="1669819386148" />
+    </e>
+    <e n="$Paste">
+      <i c="1" l="1669820075817" />
+    </e>
+    <e n="$Redo">
+      <i c="55" l="1670384246081" />
+    </e>
+    <e n="$SelectAll">
+      <i c="8" l="1669820553372" />
+    </e>
+    <e n="$Undo">
+      <i c="402" l="1670385555451" />
+    </e>
+    <e n="AcceptTabnineInlineCompletionAction">
+      <i c="394" l="1670385035219" />
+    </e>
+    <e n="BraceOrQuoteOut">
+      <i c="1" l="1669718807448" />
+    </e>
+    <e n="ChangesView.Revert">
+      <i c="5" l="1670384243271" />
+    </e>
+    <e n="CloseAllEditors">
+      <i c="9" l="1670388920361" />
+    </e>
+    <e n="CloseAllUnmodifiedEditors">
+      <i c="1" l="1669611473641" />
+    </e>
+    <e n="ConsoleView.ClearAll">
+      <i c="2" l="1669475113234" />
+    </e>
+    <e n="Debug">
+      <i c="2" l="1669606142793" />
+    </e>
+    <e n="DebugClass">
+      <i c="2" l="1669772261832" />
+    </e>
+    <e n="EditorBackSpace">
+      <i c="2060" l="1670388929732" />
+    </e>
+    <e n="EditorChooseLookupItem">
+      <i c="285" l="1670384888136" />
+    </e>
+    <e n="EditorChooseLookupItemReplace">
+      <i c="1" l="1670383954219" />
+    </e>
+    <e n="EditorCodeBlockStart">
+      <i c="5" l="1669264890143" />
+    </e>
+    <e n="EditorCompleteStatement">
+      <i c="1" l="1670384358033" />
+    </e>
+    <e n="EditorCopy">
+      <i c="16" l="1670384317826" />
+    </e>
+    <e n="EditorCut">
+      <i c="13" l="1670296496868" />
+    </e>
+    <e n="EditorDelete">
+      <i c="2" l="1669717284808" />
+    </e>
+    <e n="EditorDeleteLine">
+      <i c="6" l="1669790717193" />
+    </e>
+    <e n="EditorDeleteToWordStart">
+      <i c="131" l="1670384909731" />
+    </e>
+    <e n="EditorDown">
+      <i c="450" l="1670385386316" />
+    </e>
+    <e n="EditorDuplicate">
+      <i c="20" l="1669790691891" />
+    </e>
+    <e n="EditorEnter">
+      <i c="572" l="1670385140877" />
+    </e>
+    <e n="EditorEscape">
+      <i c="42" l="1670385256733" />
+    </e>
+    <e n="EditorIndentSelection">
+      <i c="1" l="1669621807390" />
+    </e>
+    <e n="EditorLeft">
+      <i c="234" l="1670385345201" />
+    </e>
+    <e n="EditorLineEnd">
+      <i c="28" l="1670384384091" />
+    </e>
+    <e n="EditorLineStart">
+      <i c="3" l="1669820001540" />
+    </e>
+    <e n="EditorNextWord">
+      <i c="1" l="1669731178204" />
+    </e>
+    <e n="EditorNextWordWithSelection">
+      <i c="20" l="1669731177207" />
+    </e>
+    <e n="EditorPageDown">
+      <i c="2" l="1669557790305" />
+    </e>
+    <e n="EditorPageDownWithSelection">
+      <i c="1" l="1669537016993" />
+    </e>
+    <e n="EditorPageUp">
+      <i c="4" l="1670384951488" />
+    </e>
+    <e n="EditorPaste">
+      <i c="26" l="1670384319511" />
+    </e>
+    <e n="EditorPreviousWord">
+      <i c="13" l="1670384633746" />
+    </e>
+    <e n="EditorRight">
+      <i c="666" l="1670385009515" />
+    </e>
+    <e n="EditorRightWithSelection">
+      <i c="5" l="1669735927681" />
+    </e>
+    <e n="EditorStartNewLine">
+      <i c="1" l="1669698796860" />
+    </e>
+    <e n="EditorTab">
+      <i c="65" l="1670384973671" />
+    </e>
+    <e n="EditorToggleCase">
+      <i c="1" l="1669713044797" />
+    </e>
+    <e n="EditorUp">
+      <i c="152" l="1670385088340" />
+    </e>
+    <e n="EditorUpWithSelection">
+      <i c="3" l="1670383829207" />
+    </e>
+    <e n="ExpandRegion">
+      <i c="1" l="1669554268689" />
+    </e>
+    <e n="FindNext">
+      <i c="1" l="1669713394757" />
+    </e>
+    <e n="Git.CompareWithBranch">
+      <i c="1" l="1669534832499" />
+    </e>
+    <e n="Git.Reset">
+      <i c="1" l="1669258811297" />
+    </e>
+    <e n="GotoAction">
+      <i c="1" l="1669605126992" />
+    </e>
+    <e n="GotoClass">
+      <i c="1" l="1669537797316" />
+    </e>
+    <e n="GotoDeclaration">
+      <i c="7" l="1670384632068" />
+    </e>
+    <e n="GotoFile">
+      <i c="1" l="1669537800919" />
+    </e>
+    <e n="GotoSuperMethod">
+      <i c="1" l="1669713046742" />
+    </e>
+    <e n="HideAllWindows">
+      <i c="8" l="1669820413397" />
+    </e>
+    <e n="InspectCode">
+      <i c="1" l="1669712466805" />
+    </e>
+    <e n="JumpToLastChange">
+      <i c="11" l="1670384446968" />
+    </e>
+    <e n="List-selectPreviousColumn">
+      <i c="2" l="1669610211236" />
+    </e>
+    <e n="Move">
+      <i c="1" l="1669556845611" />
+    </e>
+    <e n="MoveStatementDown">
+      <i c="2" l="1669691380099" />
+    </e>
+    <e n="NewDirectoryProject">
+      <i c="1" l="1669534680485" />
+    </e>
+    <e n="NewPythonFile">
+      <i c="49" l="1670388924165" />
+    </e>
+    <e n="NewPythonPackage">
+      <i c="1" l="1669557301231" />
+    </e>
+    <e n="OpenFile">
+      <i c="2" l="1669815983897" />
+    </e>
+    <e n="OverrideFileTypeAction">
+      <i c="1" l="1669698289322" />
+    </e>
+    <e n="QuickPreview">
+      <i c="1" l="1669556741051" />
+    </e>
+    <e n="Refactorings.QuickListPopupAction">
+      <i c="1" l="1669538332590" />
+    </e>
+    <e n="ReformatCode">
+      <i c="17" l="1669734698848" />
+    </e>
+    <e n="RenameElement">
+      <i c="4" l="1670297132313" />
+    </e>
+    <e n="Resume">
+      <i c="2" l="1669606151735" />
+    </e>
+    <e n="Run">
+      <i c="28" l="1670385590799" />
+    </e>
+    <e n="RunClass">
+      <i c="77" l="1670385043748" />
+    </e>
+    <e n="SaveAll">
+      <i c="264" l="1670388939267" />
+    </e>
+    <e n="SearchEverywhere">
+      <i c="2" l="1669717337546" />
+    </e>
+    <e n="ShowIntentionActions">
+      <i c="1" l="1669557226633" />
+    </e>
+    <e n="ShowReformatFileDialog">
+      <i c="1" l="1669538326767" />
+    </e>
+    <e n="ShowSettings">
+      <i c="21" l="1669771859087" />
+    </e>
+    <e n="Stop">
+      <i c="8" l="1670385418253" />
+    </e>
+    <e n="ToggleLineBreakpoint">
+      <i c="11" l="1669816015032" />
+    </e>
+    <e n="Tree-scrollUpChangeSelection">
+      <i c="14" l="1669556917208" />
+    </e>
+    <e n="Tree-selectPrevious">
+      <i c="11" l="1669556912458" />
+    </e>
+    <e n="WelcomeScreen.OpenDirectoryProject">
+      <i c="1" l="1669179466306" />
+    </e>
+    <e n="com.intellij.application.options.schemes.AbstractSchemeActions$CopyAction">
+      <i c="2" l="1669538039756" />
+    </e>
+    <e n="com.intellij.application.options.schemes.AbstractSchemeActions$DeleteAction">
+      <i c="1" l="1669538221491" />
+    </e>
+    <e n="com.intellij.application.options.schemes.AbstractSchemeActions$ImportAction">
+      <i c="1" l="1669180410474" />
+    </e>
+    <e n="com.intellij.application.options.schemes.AbstractSchemesPanel$ShowSchemesActionsListAction">
+      <i c="9" l="1669556420334" />
+    </e>
+    <e n="com.intellij.diagnostic.LowMemoryNotifier$1">
+      <i c="1" l="1669180542364" />
+    </e>
+    <e n="com.intellij.ide.ReopenProjectAction">
+      <i c="1" l="1669536756935" />
+    </e>
+    <e n="com.intellij.ide.plugins.newui.SelectionBasedPluginModelAction$UninstallAction">
+      <i c="4" l="1669606557907" />
+    </e>
+    <e n="com.intellij.notification.NotificationAction$Simple">
+      <i c="3" l="1669815999978" />
+    </e>
+    <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
+      <i c="9" l="1669730988006" />
+    </e>
+    <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
+      <i c="7" l="1669717338534" />
+    </e>
+    <e n="com.intellij.openapi.ui.DialogWrapper$4">
+      <i c="41" l="1670388937253" />
+    </e>
+    <e n="com.intellij.openapi.ui.impl.DialogWrapperPeerImpl$AnCancelAction">
+      <i c="4" l="1670384243989" />
+    </e>
+    <e n="com.intellij.toolWindow.ToolWindowHeader$HideAction">
+      <i c="3" l="1670383712254" />
+    </e>
+    <e n="com.intellij.xdebugger.impl.breakpoints.RemoveBreakpointGutterIconAction">
+      <i c="6" l="1669606210373" />
+    </e>
+    <e n="com.jetbrains.python.sdk.PySdkPopupFactory$SwitchToSdkAction">
+      <i c="1" l="1669816001409" />
+    </e>
+    <e n="com.nnthink.aixcoder.module.LocalService$2$1">
+      <i c="1" l="1669606581954" />
+    </e>
+    <e n="com.nnthink.aixcoder.module.LocalService$2$7">
+      <i c="1" l="1669606669741" />
+    </e>
+  </component>
+</application>

@@ -1,0 +1,84 @@
+<application>
+  <component name="DynamicPluginEnabler">
+    <trackers>
+      <map>
+        <entry key="2HvxictONAH3ZvBxpLgpxjGNHF1">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2I7Zo7kBmhbURiS6S4mM16K1Rhh">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2IGlqkIP9lKCiDKngB3uEcJc2rF">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+      </map>
+    </trackers>
+  </component>
+  <component name="PropertyService"><![CDATA[{
+  "keyToString": {
+    "CWM_LOGGING_VERSION": "1",
+    "InstalledPluginsSearchHistory": "reformar\nrefor\nrefo\nref",
+    "KEYMAP": "New",
+    "MarketplacePluginsSearchHistory": "completion\ncompletin\ncomple\ncomp\ncom",
+    "NextRunPlatformUpdateBuild": "PY-223.7571.203/2022.3",
+    "NextRunPlatformUpdateVersion": "2022.3",
+    "NonModalCommitCustomization.IsApplied": "true",
+    "PluginConfigurable.selectionTab": "1",
+    "PyCharm.InitialConfiguration": "true",
+    "PyCharm.InitialConfiguration.V2": "true",
+    "PyCharm.InitialConfiguration.V3": "true",
+    "PyCharm.InitialConfiguration.V4": "true",
+    "PyCharm.InitialConfiguration.V5": "true",
+    "PyCharm.InitialConfiguration.V6": "true",
+    "PyCharm.InitialConfiguration.V7": "true",
+    "PyCharm.InitialConfiguration.V8": "true",
+    "RunOnceActivity.se.text.search": "true",
+    "SettingsSearchHistory": "reformat",
+    "appcds.runOnSecondStart": "PY-223.7571.203-63fde69b4a426b3ccc323d55615ff96144a7cf4f11c39d005beadbe480518b5d",
+    "bundled.plugins.list.saved.version": "PY-223.7571.203",
+    "evlsprt3.222": "22",
+    "evlsprt3.223": "22",
+    "experimentalFeature.terminal.shell.command.handling": "false",
+    "file.gist.reindex.count": "8",
+    "fileTypeChangedCounter": "4",
+    "fontSizeToResetConsole": "18.0",
+    "fontSizeToResetEditor": "20.0",
+    "got.it.tooltip.reader.mode.got.it": "1",
+    "gotit.previous.run": "PY-223.7571.203",
+    "ide.memory.adjusted": "true",
+    "ide.updates.old.dirs.scan.scheduled": "1670993765724",
+    "input.method.disabler.muted": "true",
+    "is-getting-started-opened": "true",
+    "last_opened_file_path": "/home/sb/Downloads/Colorful___By_Hulk_Python.icls",
+    "previousColorScheme": "Colorful - By Hulk Python",
+    "registry.to.advanced.settings.migration.build": "PY-223.7571.203",
+    "tabnine-notifications-shown-\"preview-notification-1\"_1669691212644": "true",
+    "tasks.pass.word.conversion.enforced": "true",
+    "ts.lib.d.ts.version": "4.7.4"
+  },
+  "keyToStringList": {
+    "file.chooser.recent.files": [
+      "/home/sb/StoxAlpha/algo_trading",
+      "/home/sb/Downloads/Colorful___By_Hulk_Python.icls",
+      "/home/sb/StoxAlpha/ExperimentProject"
+    ],
+    "fileTypeDetectors": [
+      "com.intellij.ide.scratch.ScratchFileServiceImpl$Detector",
+      "com.intellij.database.vfs.DbStorageFileType$Detector",
+      "com.intellij.docker.dockerFile.DockerFileTypeDetector",
+      "org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector"
+    ]
+  }
+}]]></component>
+  <component name="ShownTips"><![CDATA[{
+  "shownTips": {
+    "SpeedSearch": 1670562492657
+  }
+}]]></component>
+</application>
